@@ -1,0 +1,37 @@
+<li class="produtos__lista">
+                <div class="produto__conteudo">
+                    <img class="produtos__img" src="./img/lucario-card-2.webp" alt="Carta Lucario Série Brilliant Stars">
+                    <div class="produto__texto">
+                        <h3>Lucario - SWSH09: Brilliant Stars (SWSH09)</h3>
+                        <p>R$25,00</p>
+                    </div>
+                </div>
+            </li>
+            <li class="produtos__lista">
+                <div class="produto__conteudo">
+                    <img class="produtos__img" src="./img/lucario-card.webp" alt="Carta Lucario Série Prize Pack">
+                    <div class="produto__texto">
+                        <h3>Lucario ex - Prize Pack Series Cards</h3>
+                        <p>R$65,00</p>
+                    </div>
+                </div>
+            </li>
+            <li class="produtos__lista">
+                <div class="produto__conteudo">
+                   <img class="produtos__img" src="./img/lucario-funko.jpg" alt="Boneco Funko Lucario">
+                    <div class="produto__texto">    
+                        <h3>Lucario Funko</h3>
+                        <p>R$120,00</p>
+                    </div>
+                </div>
+            </li>
+            <li class="produtos__lista">
+                <div class="produto__conteudo">
+                    <img class="produtos__img" src="./img/lucario-figure.jpg"
+                    alt="Action Figure do Lucario">
+                    <div class="produto__texto">
+                        <h3>Lucario Action Figure</h3>
+                        <p>R$350,00</p>
+                    </div>
+                </div>
+            </li>
